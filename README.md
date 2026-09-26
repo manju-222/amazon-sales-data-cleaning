@@ -61,7 +61,7 @@ The cleaned dataset was checked for:
 | File                               | Description                                    |
 | ---------------------------------- | ---------------------------------------------- |
 | `Amazon_Sales_Data_Cleaning.ipynb` | Complete data cleaning and validation notebook |
-| `amazon_sales_cleaned.csv`         | Cleaned dataset                                |
+| `missing_values_analysis.png`      | Screenshots of before and after Cleaning       |
 | `data_quality_report.csv`          | Before-and-after data quality report           |
 
 ##  Key Skills Demonstrated
@@ -78,6 +78,9 @@ The cleaned dataset was checked for:
 * Python
 * Excel/CSV Data Handling
 
+##Dataset
+
+The cleaned dataset contains 128,975 records. Due to GitHub's file-size limitations, the full dataset is not included in this repository. The notebook demonstrates the complete cleaning and validation workflow.
 ##  Outcome
 
 The project produces a structured and validated dataset that can be used as a reliable starting point for further business analysis, reporting, and visualization.
